@@ -1,0 +1,16 @@
+{
+    "firstName": "Zip",
+    "lastName": "Coder",
+    "hobbies": ["coding", "programming", "software", "sky diving", "watching youtube"],
+    "age": 35,
+    "children": [
+        {
+            "firstName": "Alice",
+            "age": 6
+        },
+        {
+            "firstName": "Bob",
+            "age": 8
+        }
+    ]
+}
